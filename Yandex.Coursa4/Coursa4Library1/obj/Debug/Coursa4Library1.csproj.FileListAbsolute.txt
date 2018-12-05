@@ -1,0 +1,17 @@
+C:\Users\Антон\Desktop\Яндекс.Курсач\Yandex.Coursa4\Coursa4Library1\bin\Debug\Coursa4Library1.dll
+C:\Users\Антон\Desktop\Яндекс.Курсач\Yandex.Coursa4\Coursa4Library1\bin\Debug\Coursa4Library1.pdb
+C:\Users\Антон\Desktop\Яндекс.Курсач\Yandex.Coursa4\Coursa4Library1\obj\Debug\Coursa4Library1.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\Яндекс.Курсач\Yandex.Coursa4\Coursa4Library1\obj\Debug\Coursa4Library1.dll
+C:\Users\Антон\Desktop\Яндекс.Курсач\Yandex.Coursa4\Coursa4Library1\obj\Debug\Coursa4Library1.pdb
+C:\Users\Артур\Downloads\Яндекс.Курсач\Яндекс.Курсач\Yandex.Coursa4\Coursa4Library1\bin\Debug\Coursa4Library1.dll
+C:\Users\Артур\Downloads\Яндекс.Курсач\Яндекс.Курсач\Yandex.Coursa4\Coursa4Library1\bin\Debug\Coursa4Library1.pdb
+C:\Users\Артур\Downloads\Яндекс.Курсач\Яндекс.Курсач\Yandex.Coursa4\Coursa4Library1\obj\Debug\Coursa4Library1.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Downloads\Яндекс.Курсач\Яндекс.Курсач\Yandex.Coursa4\Coursa4Library1\obj\Debug\Coursa4Library1.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Downloads\Яндекс.Курсач\Яндекс.Курсач\Yandex.Coursa4\Coursa4Library1\obj\Debug\Coursa4Library1.dll
+C:\Users\Артур\Downloads\Яндекс.Курсач\Яндекс.Курсач\Yandex.Coursa4\Coursa4Library1\obj\Debug\Coursa4Library1.pdb
+C:\Users\student\Downloads\Yandex_Kursach1\Yandex.Coursa4\Coursa4Library1\bin\Debug\Coursa4Library1.dll
+C:\Users\student\Downloads\Yandex_Kursach1\Yandex.Coursa4\Coursa4Library1\bin\Debug\Coursa4Library1.pdb
+C:\Users\student\Downloads\Yandex_Kursach1\Yandex.Coursa4\Coursa4Library1\obj\Debug\Coursa4Library1.csprojAssemblyReference.cache
+C:\Users\student\Downloads\Yandex_Kursach1\Yandex.Coursa4\Coursa4Library1\obj\Debug\Coursa4Library1.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Yandex_Kursach1\Yandex.Coursa4\Coursa4Library1\obj\Debug\Coursa4Library1.dll
+C:\Users\student\Downloads\Yandex_Kursach1\Yandex.Coursa4\Coursa4Library1\obj\Debug\Coursa4Library1.pdb

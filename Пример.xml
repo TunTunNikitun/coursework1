@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Firstname>Казаков</Firstname>
+    <Secondname>Евгений</Secondname>
+    <Sname>гвозди</Sname>
+    <Delivery>Юрьевич</Delivery>
+    <Product>10000</Product>
+    <Count>Доставка</Count>
+    <Car>Въезд с улицы Окружная</Car>
+    <Adres>фургон</Adres>
+    <Comments>Застройщиков 1</Comments>
+  </Person>
+  <Person />
+</ArrayOfPerson>
